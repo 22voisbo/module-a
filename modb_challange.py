@@ -6,7 +6,7 @@ def main():
     print()
 
     #Lists the foods avaliable
-    food = ['Cookie', 'Steak', 'Ice cream', 'Apples']
+    food = ['Cookies', 'Steak', 'Ice', 'cake']
     for food in food:
         print (food)
 
